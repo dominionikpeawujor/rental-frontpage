@@ -1231,4 +1231,27 @@ transition: .4s;
 
 }
 
+@media screen and (min-width: 1040px){
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .home__container {
+    column-gap: 4rem;
+  }
+}
+
 /* For 2K & 4K resolutions */
+
+@media screen and (min-width: 2048px) {
+  body {
+    zoom: 1.5
+  }
+}
+
+@media screen and (min-width: 3840px) {
+  body{
+    zoom: 2;
+  }
+}

@@ -4,4 +4,4 @@ I did a self reflection and realized that after learning typescript, google clou
 
 I took up this project to gain some confidence and learn new aspect of these languages. 
 
-*PS*: No matter what framework you are trying to learn, you will always need to know HTML. You can't escape it✌🏾.
+**PS**: No matter what framework you are trying to learn, you will always need to know HTML. You can't escape it✌🏾.
